@@ -20,6 +20,6 @@
        helper.resetBoard(); 
     },
     newGame: function(component, event, helper) {
-       helper.newGame(); 
+       helper.nwGame(); 
     }
 })
